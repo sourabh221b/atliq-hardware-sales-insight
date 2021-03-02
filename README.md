@@ -2,7 +2,7 @@ Atliq_Hardware_Sales_Insight using power bi
 
 Description
 The project was targeted to get sales insights from the mysql database 
-so that the stackholder can make their decision 
+so that the stackholders can make their decision 
 why the total sales were dropping for the last 4 years. 
 
 The report helps to see:
